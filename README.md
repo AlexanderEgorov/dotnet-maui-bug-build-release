@@ -1,0 +1,1 @@
+# dotnet-maui-bug-build-release
